@@ -14,7 +14,7 @@ namespace Assignment1_N01663649.Controllers
         /// HST calculated forthe amount and then added to it to find the final total 
         /// </summary>
         /// <param name="id"> input number of days</param>
-        /// <returns> string</returns>
+        /// <returns> string </returns>
 
         public string Get(double id)
         {
