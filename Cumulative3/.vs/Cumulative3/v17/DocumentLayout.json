@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|c:\\users\\elvis\\source\\repos\\http5125-backend\\cumulative3\\cumulative3\\views\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\scripts\\teachers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\scripts\\teachers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\views\\ajax_update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\ajax_update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\views\\ajax_new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\ajax_new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\views\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\views\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\controllers\\teacherdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\views\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\views\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\views\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\cumulative3\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F9DA21-7E00-4D22-8FE4-795A6D9C5D1B}|Cumulative3\\Cumulative3.csproj|solutionrelative:cumulative3\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\DeleteConfirm.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\DeleteConfirm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T03:26:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teachers.js",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Scripts\\teachers.js",
+              "RelativeDocumentMoniker": "Cumulative3\\Scripts\\teachers.js",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Scripts\\teachers.js",
+              "RelativeToolTip": "Cumulative3\\Scripts\\teachers.js",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwCEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-20T03:02:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AJAX_New.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\AJAX_New.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\AJAX_New.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\AJAX_New.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\AJAX_New.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T02:56:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AJAX_Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\AJAX_Update.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\AJAX_Update.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\AJAX_Update.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\AJAX_Update.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T02:48:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Cumulative3\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Cumulative3\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:12:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDataController.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Controllers\\TeacherDataController.cs",
+              "RelativeDocumentMoniker": "Cumulative3\\Controllers\\TeacherDataController.cs",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Controllers\\TeacherDataController.cs",
+              "RelativeToolTip": "Cumulative3\\Controllers\\TeacherDataController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:28:43.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\Update.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\Update.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\Update.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T01:22:57.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\Add.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\Add.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\Add.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\Add.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T01:02:33.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\Show.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\Show.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T01:00:18.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative3\\Views\\List.cshtml",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Views\\List.cshtml",
+              "RelativeToolTip": "Cumulative3\\Views\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T00:55:42.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Cumulative3\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Models\\Teacher.cs",
+              "RelativeToolTip": "Cumulative3\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:51:02.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Cumulative3\\Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\elvis\\source\\repos\\HTTP5125-Backend\\Cumulative3\\Cumulative3\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Cumulative3\\Models\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:47:51.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

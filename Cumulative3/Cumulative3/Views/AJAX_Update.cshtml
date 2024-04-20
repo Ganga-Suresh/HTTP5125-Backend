@@ -1,0 +1,47 @@
+﻿@model Cumulative3.Models.Teacher
+@{
+    ViewBag.Title = "AJAX_Update";
+}
+
+<div id="containershow">
+    <nav>
+        <a class="navlink" href="/Teacher/List">Back To Teachers</a>
+    </nav>
+    <h2>Update @Model.TfName @Model.TlName</h2>
+    @{
+        /* AJAX Request to update teacher */
+        /* No form submission needed */
+        /* button onclick will handle form submission */
+        /* Each item has an ID for validation && ajax submission */
+
+
+    }
+    <div class="inputrow">
+        <label for="TfName">First Name:</label>
+        <input type="text" id="TfName" name="TfName" value="@Model.TfName" />
+
+    </div>
+    <div class="inputrow">
+        <label for="TlName">Last Name:</label>
+        <input type="text" id="TlName" name="TlName" value="@Model.TlName" />
+
+    </div>
+    <div class="inputrow">
+        <label for="Tnumber">Employee Number:</label>
+        <input type="text" id="Tnumber" name="Tnumber" value="@Model.Tnumber" />
+    </div>
+    <div class="inputrow">
+        <label for="Thiredate">Biography:</label>
+        <input type="text" id="Thiredate" name="Thiredate" value="@Model.Thiredate" />
+
+    </div>
+    <div class="inputrow">
+        <label for="Thiredate">Biography:</label>
+        <input type="text" id="Thiredate" name="Thiredate" value="@Model.Thiredate" />
+
+    </div>
+    @{
+        //AddTeacher() is a JS method defined in /Scripts/teachers.js
+    }
+    <button onclick="UpdateTeacher(@Model.Id);">Update Teacher</button>
+</div>
